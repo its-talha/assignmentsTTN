@@ -1,0 +1,28 @@
+<html>  
+  
+<head>  
+    <title>  Math.PI  </title>  
+</head>  
+  
+<body> 
+  
+    <script>   
+    function findArea(r)  
+    {  
+    // document.getElementById('para').innerHTML = 'The area of circle with radius 20cm is: ' + Math.PI * r * r ;  
+    // alert("Area of circle is : " + Math.PI * r * r); 
+    document.write("<P>The area of the circle is " + (radius * radius * Math.PI) + "</p>");
+    return ( Math.PI * r * r);
+    }  
+
+    const radius = prompt('Enter the radius of circle');
+
+    const value = findArea(radius);
+
+    console.log(value);
+  
+    </script>   
+
+</body>  
+  
+</html>  
