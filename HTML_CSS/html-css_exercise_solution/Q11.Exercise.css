@@ -1,0 +1,138 @@
+body{
+    background-color: #383838;
+}
+h2{
+    color: gray;
+}
+#center{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-left: 500px;
+}
+.container{
+    background-color: #383838;
+    padding-inline-start: 100px;
+    padding-inline-end: 100px;
+}
+.container1{
+    background-color: #323232;
+}
+.container1-1{
+    margin-top: -10px;
+    font-size: 25px;
+    margin-bottom: -20px;
+    margin-left: 80px;
+}
+
+.container1-2{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: gray;
+}
+
+span{
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#big{
+    text-align: center;
+    height: 360px;
+    width: 960px;
+    justify-content: center;
+}
+
+#small{
+    height: 315px;
+    width: 215px;
+    background-color: black;
+    color: gray;
+    margin-right: 7px;
+    margin-bottom: 10px;
+}
+
+h4{
+    border-bottom: 1px solid black;
+}
+ 
+.card{
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+    /* padding-left: 20px; */
+}
+
+.container2{
+    border: 1px solid black;
+    background-color: white;
+}
+
+.container2-1{
+    color: gray;
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: black;
+}
+
+.container2-2{
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;  
+    background-color: #eeeeee;
+    padding-top: 3px;
+    padding-bottom: 3px; 
+}
+
+#white{
+    background-color: white;
+}
+
+#one{
+    margin-bottom: -10px;
+    padding-top: 120px;
+}
+
+
+.container2-3{
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+}
+
+.container2-4{
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.container2-5{
+    margin-top: -20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#bottom{
+    margin-top: -10px;
+    margin-right: 7px;
+    width: 215px;
+    margin-bottom: 50px;
+}
+
+.container3{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    color: gray;
+}
+.containerr{
+    background-color: #888888;
+}
